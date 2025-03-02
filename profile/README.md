@@ -6,4 +6,4 @@
  </h3>
 </div>
 
-> ~ By Hypnocs
+> ~ By Jeremy Clermont
