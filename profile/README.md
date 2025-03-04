@@ -5,5 +5,3 @@
   </em>
  </h3>
 </div>
-
-> ~ By Jeremy Clermont
