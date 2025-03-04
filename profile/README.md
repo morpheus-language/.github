@@ -6,4 +6,4 @@
  </h3>
 </div>
 
-> ~ By Jeremy Clermont
+> ~ by Jeremy Clermont
