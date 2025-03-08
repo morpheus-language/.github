@@ -11,4 +11,4 @@
 </div>
 
 [Morpheus]: https://github.com/morpheus-language/morpheus
-[Opium]:
+[Opium]: https://github.com/morpheus-language/morpheus
