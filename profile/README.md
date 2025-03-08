@@ -6,7 +6,7 @@
      <em>The Programming Language of Oblivion</em> 
     </h3>
 
-[Main Repository][Morpheus] |
+[Main Repository][Morpheus] | [Documentation] |
 
 </div>
 
