@@ -1,7 +1,7 @@
 <div align="center">
    <h3>
      <em>
-     Welcome to the main organization of Morpheus.
+   🔮  Welcome to the main organization of Morpheus 🔮
      </em>
     </h3>
 
