@@ -5,4 +5,8 @@
     <h3>
       Morpheus Foundation
     </h3>
+    [Main Repository][Morpheus]
 </div>
+
+
+[Morpheus]: https://github.com/morpheus-language/morpheus
