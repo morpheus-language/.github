@@ -1,9 +1,8 @@
 <div align="center">
- <h3>
-  <em>
-    💤 You dreamed in the arms of Morpheus 💤
-  </em>
- </h3>
+    <picture>
+     <img alt="The Morpheus Language Programming" src="">
+    </picture>
+    <p>
+     [Morpheus] | [Opium] | [Documentation]
+    </p>
 </div>
-
-> ~ by Jeremy Clermont
